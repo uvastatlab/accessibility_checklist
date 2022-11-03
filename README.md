@@ -1,5 +1,7 @@
 # Accessibility Checklist
 
+Review this before publishing StatLab Article
+
 - Use proper headers (#, ##, etc)
 - No LaTeX for simple math elements like x, y, etc
 - Refer to functions with `()` appended
