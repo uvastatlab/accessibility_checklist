@@ -17,7 +17,7 @@ Review this guide when publishing StatLab articles or finalizing public-facing R
 Alt text should be succinct and provide equivalent information to the graphic it describes.
 
 - Avoid redundancy: Don't start alt text with "graphic of...," "a photo of...," etc.
-- Alt text doesn't need to communicate every descriptive details: The point is to get across the content and function of the graphic
+- Alt text doesn't need to communicate every descriptive detail: The point is to get across the content and function of the graphic
   - "Snow-covered forest seen from above" is preferable to "A cluster of deciduous trees in late November with snow covering about two-thirds of their branches; most but not all are lacking leaves, and a sign with unreadable text is nailed to a low post toward the left of the image, which appears to have been taken from between 200 and 300 feet off of the ground"
 
 In R Markdown/Quarto documents, alt text can be added before the image path:
